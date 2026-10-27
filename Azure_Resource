@@ -10,7 +10,7 @@
 - Support centralized access management through RBAC.
 - Enable collective resource management.
 
-![Azure Resources](https://ravichaganti.com/images/armin30/d1-armarch.png)
+<img src="https://ravichaganti.com/images/armin30/d1-armarch.png" alt="Azure Resource Manager Architecture" width="700">
 
 ### Azure Resource Manager (ARM)
 
